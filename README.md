@@ -1,6 +1,6 @@
 # ToDoList
 
-Created a todolist using NodeJs modules along with a databse i mongoDB.
+Created a todolist using NodeJs modules along with a databse in mongoDB.
 
 ## Deployment
 [Project](https://shielded-cove-55347.herokuapp.com/)
